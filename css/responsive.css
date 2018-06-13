@@ -1,0 +1,285 @@
+@media screen and (min-width:981px) and (max-width:1024px){
+
+.date-style.btn-left {
+	margin-left: 10px;
+	width: 10%;
+}
+}
+@media screen and (min-width:768px) and (max-width:980px){
+     .step-title {
+        padding: 10px;
+        padding-right: 30px;
+        display: inline-block;
+        color: #333;
+        background: #3decb1;
+        margin-bottom: 20px;
+        position: relative;
+        font-size: 16px;
+        width: 90%;
+        min-height:70px;
+    }
+        .step-title:after {
+              width: 0;
+    height: 0;
+    border-top: 35px solid transparent;
+    border-bottom: 35px solid transparent;
+    border-left: 35px solid #3decb1;
+    position: absolute;
+    right: -35px;
+    top: 0px;
+    content: '';
+        }
+    .form-nfrastructure { position:relative;}
+.input-group-id { position:absolute;top:0;}
+.input-group-id .help-center  { left:auto; right:0;}
+    .mainbox.mainbox-signup.mainbox-top { margin-top:5%; text-align: left;
+    }
+      .mainbox.mainbox-top { margin-top:5%; text-align: left;
+    }
+    .mainbox {     width: 85% !important;
+    margin-left:auto !important; margin-right:auto !important;margin-top:5% !important;
+    margin-left: 0;
+    text-align: center;
+    float: none;
+}
+
+.dashboard .panel-footer{ font-size:16px;}
+.date-style.btn-left {
+	margin-left: 0;
+	width: 17%;
+}
+.date-style {
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+	width: 40%;
+}
+.table-wrapper { overflow:auto;}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+	padding:10px 5px;
+	line-height: 1.42857143;
+	vertical-align: top;
+	border-top: 0;
+}
+.table > tbody > tr > td .glyphicon {
+	font-size: 15px;
+	margin-right: 3px;
+}
+}
+
+
+
+@media screen and (max-width:767px){
+    .session-data {
+        float: none;
+        width: 100%;
+        margin: 15px 0 0 0;
+    }
+        .session-data +.session-data { margin-top:0; padding-bottom:20px;
+        }
+        .deatil-log {
+    padding: 0 10px 0 10px;
+}
+
+    .help-group {
+        position: relative;
+    }
+        .help-group .form-control { width:95%;
+        }
+        .input-group-id {
+            right: 0;
+            position: absolute;
+            top: 6px;
+            margin: 0;
+        }
+    .control-label { padding-bottom:7px;
+    }
+    .step-title {
+        padding: 10px;
+        padding-right: 30px;
+        display: inline-block;
+        color: #333;
+        background: #3decb1;
+        margin-bottom: 20px;
+        position: relative;
+        font-size: 16px;
+        width: 90%;
+        min-height: 87px;
+    }
+        .step-title:after {
+            width: 0;
+            height: 0;
+            border-top: 43px solid transparent;
+            border-bottom: 43px solid transparent;
+            border-left: 45px solid #3decb1;
+            position: absolute;
+            right: -45px;
+            top: 0px;
+            content: '';
+        }
+    .top-head .notifications .badge {
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    background: red;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    text-align: center;
+    padding: 0;
+    display: inline-block;
+}
+    .top-head li a span {
+    font-size: 14px;
+}
+    .top-head li a {
+    padding: 25px 15px;
+    display: block;
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+}
+    .left-side-content , .left-side-content-signup {
+        text-align: center;
+        transform: translatey(0);
+        margin-bottom: 40px;
+    }
+    .login-wrapper .panel-title  , .signup-wrapper .panel-title { text-align:center; font-size:20px;
+    }
+    .login-wrapper ,.signup-wrapper { border:0;
+    }
+    .mainbox.mainbox-thanks .alert-success , .mainbox.mainbox-thanks .alert-warning {
+    position: static;
+    padding: 25px;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width:calc(100% - 0px);
+}
+    .mainbox.mainbox-thanks .alert-success h2 , .mainbox.mainbox-thanks .alert-warning h2{ font-size:18px;
+    }
+    .about-wrapper-cnt { text-align:center;}
+ .about-wrapper-cnt h2 {
+ color: #3f3d3d;
+ margin-top: 10px;
+ font-size: 22px;
+}
+.about-wrapper-cnt h3 {
+ color: #3f3d3d;
+ margin-top: 0;
+ font-size: 20px;
+ font-weight: 300;
+}
+.about-wrapper-cnt h3 {
+ color: #3f3d3d;
+ margin-top: 0;
+ font-size: 20px;
+ font-weight: 300;
+}
+.image-section-about { text-align:center;}
+	.input-group-addonicon {
+	display: inline-block;
+	width: 86%;
+}
+.input-group-id .help-center {
+	position: absolute;
+	width: 250px;
+	z-index: 999;
+	border: 1px #ccc solid;
+	top: 100%;
+	left: auto;
+	background: #fff;
+	padding: 10px;
+	visibility: hidden; 
+	right: 0;
+}
+	.left-sidebar{margin-left:-220px; position:fixed; left:0; top:0; z-index:999;}
+	.mobile-menu{display:block;}
+	.desktop-menu{display:none;}
+	.dsahboard-highlights .pull-right { float:none !Important;}
+	.dsahboard-highlights .pull-left { float:none !Important; width:100%;}
+	.wrapper{ background:none;}
+	.table-wrapper { overflow:auto;}
+	.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+	padding:10px 5px;
+	line-height: 1.42857143;
+	vertical-align: top;
+	border-top: 0;
+}
+
+.table > tbody > tr > td .glyphicon {
+	font-size: 15px;
+	margin-right: 3px;
+}
+.pagination-wrapper { padding-top:30px;}
+.modal-dialog {
+	width: 90%;
+	padding-top: 15%;
+	border-radius: 0;
+	margin: 0 auto;
+}
+	
+	.date-custom .btn {
+	float: none;
+	margin-left: 20px;
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+}
+.date-style.btn-left {
+	margin-left: 0;
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+}
+.date-style {
+	display: block;
+	vertical-align: middle;
+	position: relative;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.date-style {
+	display: block;
+	vertical-align: middle;
+	position: relative;
+	width: 100%;
+	margin-bottom: 20px;
+}
+	.left-sidebar .fa-bars{position:absolute; top:20px; right:10px; color:#fff; cursor:pointer; z-index:99;
+                            display:block; font-size:20px;}
+    div.dataTables_wrapper > div.row > div, div.dataTables_length, div.dataTables_filter
+      {
+    text-align: left; margin-bottom:5px;
+}
+    div.dataTables_paginate , div.dataTables_info {text-align: right;
+    }
+	
+}
+@media screen and (min-width:320px) and (max-width:375px) {
+    .step-title {
+        font-size: 15px;
+    }
+    .top-head li a {
+        padding: 25px 10px;
+    }
+    .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead >
+     tr > td, .table > thead > tr > th { padding:10px 5px; padding-right:5px; font-size:12px;
+    }
+}
+@media screen and (min-width:320px) and (max-width:480px){
+	.page-heading {
+	font-size: 17px;
+	margin-bottom: 40px;
+	color: #777;
+	border-bottom: 1px #e5e5e5 solid;
+	padding-bottom: 15px;
+}
+.page-heading .btn{padding: 5px 10px; font-size:15px;}
+.btn-submit {
+	margin-left: 0;
+	width: 100%;
+}
+.page-heading.page-heading-padding{ margin-bottom:20px;}
+
+}
